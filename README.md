@@ -84,8 +84,7 @@ The old repository is the one I used when I develop the app, it has many branche
 
 ![Trello](./docs/Trello.png)
 
-## **Future Development**
-In future. I plan to add autentication feature to the app.
+
 
 |Sprint|Task|
 |-|-|
@@ -100,3 +99,6 @@ In future. I plan to add autentication feature to the app.
 |Sprint 3 task|Styling part 2|
 |Sprint 3 task|Deployment|
 |Sprint 3 task|Production test|
+
+## **Future Development**
+In future. I plan to add autentication feature to the app.
