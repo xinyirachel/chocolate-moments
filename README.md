@@ -96,5 +96,7 @@ In future. I plan to add autentication feature to the app.
 |Sprint 2 task|As a user, I want to delete a moment. So that I remove what I don't want other to see.|
 |Sprint 2 task|Styling part 1|
 |Sprint 2 task|As a user, I want to contact the developer.So that I could ask questions.|
-|Sprint 2 task|Styling part 2|
+|Sprint 2 task|Test|
+|Sprint 3 task|Styling part 2|
 |Sprint 3 task|Deployment|
+|Sprint 3 task|Production test|
