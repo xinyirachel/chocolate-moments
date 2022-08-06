@@ -59,13 +59,13 @@ The old repository is the one I used when I develop the app, it has many branche
 
 ## **User Stories**
 
-|User|Action|Reason|
-|-|-|-|
-|As a user|I want to share a post.|So that I could show my message to the public.|
-|As a user|I want to edit a moment |So that I could correct any mistakes or add more information to it.|
-|As a user|I want to read moments |So that I could know what is happening around other people.|
-|As a user|I want to delete a moment |So that I remove what I don't want other to see.|
-|As a user|I want to contact the developer.|So that I could ask questions.|
+|Id|User|Action|Reason|
+|-|-|-|-|
+|1|As a user|I want to share a post.|So that I could show my message to the public.|
+|2|As a user|I want to edit a moment |So that I could correct any mistakes or add more information to it.|
+|3|As a user|I want to read moments |So that I could know what is happening around other people.|
+|4|As a user|I want to delete a moment |So that I remove what I don't want other to see.|
+|5|As a user|I want to contact the developer.|So that I could ask questions.|
 
 ## **Wireframes**
 
@@ -86,3 +86,13 @@ The old repository is the one I used when I develop the app, it has many branche
 
 ## **Future Development**
 In future. I plan to add autentication feature to the app.
+
+|Sprint 1 task|Design|-|-|
+|Sprint 1 task|As a user|I want to share a post.|So that I could show my message to the public.|
+|Sprint 1 task|As a user|I want to read moments |So that I could know what is happening around other people.|
+|Sprint 2 task|As a user|I want to edit a moment |So that I could correct any mistakes or add more information to it.|
+|Sprint 2 task|As a user|I want to delete a moment |So that I remove what I don't want other to see.|
+|Sprint 2 task|Styling part 1|-|-|
+|Sprint 2 task|As a user|I want to contact the developer.|So that I could ask questions.|
+|Sprint 2 task|Styling part 2|-|-|
+|Sprint 3 task|Deployment|-|-|
