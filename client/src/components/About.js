@@ -15,7 +15,7 @@ function About() {
         <div className="section-center">
             <h2>About this app</h2>
             <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque varius urna at nulla commodo, id bibendum ante pretium. In hac habitasse platea dictumst. In scelerisque ante lacus, aliquam dapibus sapien vehicula a. Duis tincidunt pharetra diam vel suscipit. Mauris dignissim metus nec pharetra sollicitudin.
+            A chocolate theme CRUD app for people to share what they are thinking at the moment!
             </div>
             <p>You can send the developer an message:</p>
             <div className="grid2">

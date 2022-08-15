@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import { Button, Form } from "react-bootstrap";
 import Modal from "react-bootstrap/Modal";
@@ -8,7 +8,7 @@ import Card from 'react-bootstrap/Card';
 
 
 function Posts() {
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   const [posts, setPosts] = useState([]);
   const [updatedPost, setUpdatedPost] = useState({});
   

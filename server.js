@@ -41,6 +41,8 @@ app.get("/posts", (req, res) => {
       .catch((err) => console.log(err));
   });
 
+
+
 app.delete("/delete/:id", (req, res) => {
     console.log(req.params);
     Post.findByIdAndDelete({ _id: req.params.id })
