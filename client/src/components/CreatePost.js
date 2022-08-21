@@ -43,10 +43,10 @@ const handleClick = (event) => {
   return (
     <div className="section-center">
       <Navigation />
-      <h1>What is happening?</h1>
+      <h1>Create</h1>
       <Form>
         <Form.Group>
-          <Button variant="outline-dark" onClick={handleClick}>Create Post</Button>
+          <Button variant="outline-dark" onClick={handleClick}>Add to the Todo list</Button>
           <Form.Control name="title" placeholder="title" value={post.title}
           onChange={handleChange}/>
 

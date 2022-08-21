@@ -13,11 +13,7 @@ function About() {
     <div>
         <Navigation />
         <div className="section-center">
-            <h2>About this app</h2>
-            <div>
-            A chocolate theme CRUD app for people to share what they are thinking at the moment!
-            </div>
-            <p>You can send the developer an message:</p>
+            <h2>You can send the developer an message:</h2>
             <div className="grid2">
                 
                             <form onSubmit={handleSubmit}>

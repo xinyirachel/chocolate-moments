@@ -84,7 +84,7 @@ function Posts() {
     
     <div className='section-center'>
         <Navigation />
-        <h1>Moments</h1>
+        <h1>Todo</h1>
         
           {/* Imported Modal(Live) */}
           <Modal show={show} onHide={handleClose}>

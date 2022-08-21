@@ -12,10 +12,9 @@ function App() {
     <div className="App">
       <Navigation />
       <div className="section-center">
-        <p>“Life is like a box of chocolates, you never know what you're going to get.”</p>
         <img className="img" src={Landingimg} alt="Landingimg" />
         <div>
-          <Button variant="outline-dark" onClick={() => navigate("create")}> Share your moments!</Button>
+          <Button variant="outline-dark" onClick={() => navigate("create")}> Create a post!</Button>
         </div>
       </div>
     </div>
