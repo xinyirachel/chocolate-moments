@@ -1,8 +1,5 @@
 # **Todo App**
-A chocolate theme CRUD app Todo App with database!
-
-### **Git**
-- [Repository for deployment](https://github.com/xinyirachel/chocolate-moments)
+A chocolate theme CRUD app Todo App with database! I coded this for practicing basic MERN stack.
 
 ## **Functionality / features**
 
