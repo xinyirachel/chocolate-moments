@@ -1,9 +1,6 @@
 # **Todo App**
 A chocolate theme CRUD app Todo App with database!
 
-### **Deployment**
-- [Link to website](https://chocolatemoments.herokuapp.com)
-
 ### **Git**
 - [Repository for deployment](https://github.com/xinyirachel/chocolate-moments)
 
